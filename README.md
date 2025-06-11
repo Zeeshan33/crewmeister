@@ -15,7 +15,6 @@ This project is a solution for the Crewmeister backend coding challenge. It is a
   - Fetch rate by date and currency
   - Convert an amount from a currency to EUR
 
----
 
 ## Tech Stack
 
@@ -38,6 +37,7 @@ This project is a solution for the Crewmeister backend coding challenge. It is a
 ```bash
 git clone https://github.com/your-username/crewmeister-challenge.git
 cd crewmeister-challenge
+```
 
 ### Running the application
 
